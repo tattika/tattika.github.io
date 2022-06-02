@@ -1,2 +1,2 @@
-# tattika.githube.io
+# tattika.github.io
 Demo page.
